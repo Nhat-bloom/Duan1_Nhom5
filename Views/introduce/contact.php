@@ -24,7 +24,7 @@
 				<div class="googleMap-info">
 					<div id="googleMap"></div>
 					<div class="map-info">
-						<p><strong>DTP Phone</strong></p>
+						<p><strong>FPT Shop</strong></p>
 					</div>
 				</div>
 			</div>

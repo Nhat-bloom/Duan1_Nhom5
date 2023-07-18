@@ -31,7 +31,7 @@
 				<div class="col-sm-12 col-md-6">
 					<div class="about-text">
 						<div class="about-author">
-							<h4>Cửa hàng điện thoại DTP</h4>
+							<h4>Cửa hàng điện thoại FPT</h4>
 						</div>
 						<h5>Cửa hàng chúng tôi với:</h5>
 						<ol>
@@ -66,14 +66,12 @@
 					</div>
 					<div class="share-member">
 						<div class="member-title">
-							<h4s>Hoàng Văn Hạnh</h4s>
+							<h4s>Nguyễn Xuân Huy</h4s>
 						</div>
 						<div class="member-btn">	
 							<a href="#"><i class="mdi mdi-facebook"></i></a>
 							<a href="#"><i class="mdi mdi-twitter"></i></a>
 							<a href="#"><i class="mdi mdi-google-plus"></i></a>
-							<a href="#"><i class="mdi mdi-dribbble"></i></a>
-							<a href="#"><i class="mdi mdi-rss"></i></a>
 						</div>
 					</div>
 				</div>
@@ -86,7 +84,7 @@
 					</div>
 					<div class="share-member">
 						<div class="member-title">
-							<h4>Lê Đình Tuấn</h4>
+							<h4s>Lê Quốc Việt</h4s>
 						</div>
 						<div class="member-btn">	
 							<a href="#"><i class="mdi mdi-facebook"></i></a>
@@ -106,7 +104,7 @@
 					</div>
 					<div class="share-member">
 						<div class="member-title">
-							<h4>Nguyễn Long Nhật</h4>
+							<h4s>Nguyễn Long Nhật</h4s>
 						</div>
 						<div class="member-btn">	
 							<a href="#"><i class="mdi mdi-facebook"></i></a>
@@ -118,43 +116,6 @@
 					</div>
 				</div>
 			</div>
-			<div style="margin-top: 20px;" class="col-sm-12 col-md-4">
-				<div class="single-member">
-					<div class="member-img">
-						<a href="#"><img src="public\img\z3963707855055_579e8953b7bdf2861359958df792f2b1.jpg" alt="Team Member" /></a>
-					</div>
-					<div class="share-member">
-						<div class="member-title">
-							<h4>TẠ VIỆT DƯƠNG</h4>
-						</div>
-						<div class="member-btn">	
-							<a href="#"><i class="mdi mdi-facebook"></i></a>
-							<a href="#"><i class="mdi mdi-twitter"></i></a>
-							<a href="#"><i class="mdi mdi-google-plus"></i></a>
-							<a href="#"><i class="mdi mdi-dribbble"></i></a>
-							<a href="#"><i class="mdi mdi-rss"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div style="margin-top: 20px;" class="col-sm-12 col-md-4">
-				<div class="single-member">
-					<div class="member-img">
-						<a href="#"><img src="public\img\z3963707855055_579e8953b7bdf2861359958df792f2b1.jpg" alt="Team Member" /></a>
-					</div>
-					<div class="share-member">
-						<div class="member-title">
-							<h4>Nguyễn Thị Huyền</h4>
-						</div>
-						<div class="member-btn">	
-							<a href="#"><i class="mdi mdi-facebook"></i></a>
-							<a href="#"><i class="mdi mdi-twitter"></i></a>
-							<a href="#"><i class="mdi mdi-google-plus"></i></a>
-							<a href="#"><i class="mdi mdi-dribbble"></i></a>
-							<a href="#"><i class="mdi mdi-rss"></i></a>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>

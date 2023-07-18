@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
-                    <p>&copy; DTPPhone 2020. All Rights Reserved.</p>
+                    <p>&copy; FPTShop 2023. All Rights Reserved.</p>
                 </div>
                 <div class="col-xs-12 col-sm-6 text-right">
                     <a href="https://www.nganluong.vn/vn/home.html" target="_blank"><img src="public/img/footer/payment.png" alt="" /></a>
